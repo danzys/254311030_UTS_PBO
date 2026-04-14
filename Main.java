@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Main{
     public static void main(String[] args) {
 
-        String nama = "Budi";
+        String nama = "Windah";
         String nim = "254311030";
 
         ArrayList<Layananojek> list = new ArrayList<>();
